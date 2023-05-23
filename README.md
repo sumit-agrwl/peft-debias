@@ -1,7 +1,7 @@
 # peft-debias
 Debiasing language models using parameter efficient fine tuning techniques
 
-This library requires `adapter-transformers` library.
+This code requires `adapter-transformers` library.
 
 ```bash
 pip install adapter-transformers
